@@ -1,3 +1,2 @@
-export default function sitemap() {
-  return [{ url: 'https://www.richardslaw.ca/', lastModified: new Date(), changeFrequency: 'monthly', priority: 1 }];
-}
+const routes=['/','/real-estate','/corporate-commercial','/wills-estates','/team','/insights','/insights/real-estate-lawyer-role','/insights/intestate-law','/insights/common-law-estates','/contact','/location'];
+export default function sitemap(){return routes.map(path=>({url:`https://www.richardslaw.ca${path}`,lastModified:new Date(),changeFrequency:path==='/'?'monthly':'yearly',priority:path==='/'?1:0.7}));}
