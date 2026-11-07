@@ -1,0 +1,1 @@
+const paths=['/','/about','/real-estate','/family-law','/wills-estates','/notary','/contact'];export default function sitemap(){return paths.map(path=>({url:`https://primelawalberta.com${path}`,lastModified:new Date(),changeFrequency:path==='/'?'monthly':'yearly',priority:path==='/'?1:.75}))}
