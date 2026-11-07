@@ -1,0 +1,64 @@
+{
+  "firm": "Lopatka Law",
+  "kicker": "Business · property · legacy",
+  "headline": "Experienced advice.\nPractical decisions.",
+  "intro": "An Edmonton law firm helping individuals, families, entrepreneurs and businesses navigate important legal decisions with clear advice and efficient processes.",
+  "phone": "780-486-8602",
+  "email": "info@lopatka.ca",
+  "address": "220–5540 Windermere Boulevard NW, Edmonton, Alberta T6W 2Z8",
+  "palette": "lopatka",
+  "mark": "L",
+  "sub": "EDMONTON LAW FIRM",
+  "proof": "More than 20 years helping Alberta clients make informed legal decisions.",
+  "services": [
+    [
+      "Business law",
+      "Practical legal support for business owners, entrepreneurs and organizations.",
+      "Buying or selling a business · Contracts · Commercial transactions · Business planning and succession"
+    ],
+    [
+      "Corporate law",
+      "Advice through the structure, governance and lifecycle of a corporation.",
+      "Incorporations and extra-provincial registrations · Corporate governance · Unanimous shareholder agreements · Finance and banking · Restructuring and succession · Mergers and acquisitions"
+    ],
+    [
+      "Real estate law",
+      "Residential and commercial conveyancing and property-related legal matters.",
+      "Home purchases and sales · Mortgages and refinancing · Commercial real estate · Construction matters · Other property matters"
+    ],
+    [
+      "Wills & estates",
+      "Plan your affairs and get guidance when an estate must be administered.",
+      "Wills · Enduring powers of attorney · Personal directives · Probate · Estate administration"
+    ],
+    [
+      "Employment law",
+      "Legal guidance for workplace and employment matters."
+    ],
+    [
+      "Notary public",
+      "Notary public and commissioner for oaths services."
+    ],
+    [
+      "Litigation",
+      "Representation for legal disputes, informed by the circumstances and objectives of each matter."
+    ]
+  ],
+  "facts": [
+    [
+      "20+",
+      "Years of experience"
+    ],
+    [
+      "Alberta",
+      "Individuals & businesses"
+    ],
+    [
+      "Online",
+      "Estimates and fee information"
+    ]
+  ],
+  "team": "A coordinated legal team",
+  "teamText": "Lawyer Philip Lopatka and legal assistant Nicole May Parent are listed on the firm’s team page. The firm uses a team-based approach to coordinate legal and administrative support.",
+  "contactText": "For a more efficient response, include relevant details about your matter. Online estimates and fee information are available for many services."
+}

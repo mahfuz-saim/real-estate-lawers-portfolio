@@ -1,0 +1,52 @@
+{
+  "firm": "Pactum Law",
+  "kicker": "Law for life’s turning points",
+  "headline": "Support for the\ndecisions that matter.",
+  "intro": "Personalized legal advice for families, property owners, employees and individuals across Edmonton and Alberta. Clear guidance, tailored to your circumstances.",
+  "phone": "587-635-3388",
+  "email": "reception@pactumlaw.ca",
+  "address": "Suite 210, 12420 104 Avenue NW, Edmonton, Alberta T5N 3Z9",
+  "palette": "pactum",
+  "mark": "P",
+  "sub": "EDMONTON · ALBERTA",
+  "proof": "A hands-on approach, tailored to your needs.",
+  "services": [
+    [
+      "Family law",
+      "Support through difficult family changes, with practical guidance and court representation when needed.",
+      "Agreements: pre-nuptial, cohabitation and separation · Divorce · Parenting and child support · Spousal support · Family property division · Adult interdependent partner matters · Mobility and guardianship applications · Emergency protection and restraining orders"
+    ],
+    [
+      "Real estate",
+      "Personalized, cost-effective legal services for residential and commercial property matters.",
+      "Residential purchases and sales · Mortgage refinancing · Title transfers · Due diligence and purchase agreements · Land-title documentation"
+    ],
+    [
+      "Wills & estates",
+      "Plan for the future and get thoughtful help administering an estate.",
+      "Wills · Powers of attorney · Personal directives · Estate planning · Probate applications · Grants of administration · Adult trusteeship and guardianship"
+    ],
+    [
+      "Employment law",
+      "Advice and representation for workplace issues throughout Alberta.",
+      "Wrongful dismissal and termination · Severance review and negotiation · Constructive dismissal · Workplace harassment and discrimination · Employment standards · Contracts · Human rights claims · Workplace investigations · Labour relations and occupational health and safety"
+    ]
+  ],
+  "facts": [
+    [
+      "4",
+      "Core practice areas"
+    ],
+    [
+      "Alberta",
+      "Court and service coverage"
+    ],
+    [
+      "Edmonton",
+      "Local office"
+    ]
+  ],
+  "team": "A dedicated legal team",
+  "teamText": "The firm describes a hands-on approach to each matter—working with clients to find a practical strategy for their needs.",
+  "contactText": "Tell us a little about the matter you are facing. The office can direct your inquiry to the right team."
+}
