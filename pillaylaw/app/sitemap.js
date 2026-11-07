@@ -1,0 +1,1 @@
+const routes=['/','/services','/about','/team','/contact'];import {services} from './services/data';export default function sitemap(){return [...routes,...services.map(s=>`/services/${s.slug}`)].map(path=>({url:`https://www.pillaylaw.ca${path}`,lastModified:new Date(),changeFrequency:path==='/'?'monthly':'yearly',priority:path==='/'?1:.7}))}

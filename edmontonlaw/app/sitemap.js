@@ -1,0 +1,1 @@
+const paths=['/','/about','/team','/resources','/real-estate','/wills-estates','/business-law','/litigation','/contact'];export default function sitemap(){return paths.map(path=>({url:`https://www.edmontonlaw.ca${path}`,lastModified:new Date(),changeFrequency:path==='/'?'monthly':'yearly',priority:path==='/'?1:.7}))}
