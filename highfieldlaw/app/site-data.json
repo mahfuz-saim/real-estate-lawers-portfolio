@@ -1,0 +1,97 @@
+{
+  "folder": "highfieldlaw",
+  "name": "HIGHFIELD LAW",
+  "sub": "OFFICE · EDMONTON",
+  "title": "Real estate.\nDone with confidence.",
+  "eyebrow": "Edmonton real estate law since 2001",
+  "intro": "Buying or selling a home is a big moment. Get experienced guidance, responsive communication and careful attention to every closing detail.",
+  "theme": "highfield",
+  "phone": "780-423-3188",
+  "email": "kwong@highfieldlaw.com",
+  "address": "10132 80 Ave NW, Edmonton, AB T6E 1T7",
+  "hours": "Monday–Friday · 9:00 am–5:00 pm",
+  "tagline": "Experience that makes moving easier.",
+  "services": [
+    [
+      "Residential real estate",
+      "Purchases, sales, mortgage transactions and refinancing. We help you understand the paperwork, timelines, title and closing details.",
+      "01"
+    ],
+    [
+      "Commercial real estate",
+      "Legal support for commercial property transactions, informed by a practice that dedicates over 90% of its work to real estate.",
+      "02"
+    ],
+    [
+      "Estate planning",
+      "Wills, powers of attorney and personal directives, prepared with your instructions and future plans in mind.",
+      "03"
+    ],
+    [
+      "Notary services",
+      "Notarization for signatures and document copies. Contact the office to arrange an appointment.",
+      "04"
+    ]
+  ],
+  "team": [
+    [
+      "A knowledgeable local team",
+      "Real estate legal experience since 2001",
+      "Thousands of transactions, careful paperwork, clear timelines and accessible answers from a team that knows the process."
+    ]
+  ],
+  "quote": "“The smoothest part of my new home purchase—extremely helpful, responsive and accommodating.”",
+  "facts": [
+    [
+      "2001",
+      "Serving Edmonton since"
+    ],
+    [
+      "90%+",
+      "Practice dedicated to real estate"
+    ],
+    [
+      "9–5",
+      "Weekday office hours"
+    ]
+  ],
+  "steps": [
+    "Let your realtor and mortgage specialist know we are your lawyers",
+    "Provide your contract, identification and lender documents",
+    "Review your numbers and sign ahead of possession"
+  ],
+  "fees": [
+    [
+      "Purchase with mortgage / refinance",
+      "$725 + disbursements + GST"
+    ],
+    [
+      "Purchase with cash / sale",
+      "$625 + disbursements + GST"
+    ],
+    [
+      "Construction draw mortgage",
+      "$875 + disbursements + GST"
+    ],
+    [
+      "Notary services",
+      "$30 per signature or document (up to $300)"
+    ],
+    [
+      "Single will",
+      "$250 + printing costs + GST"
+    ],
+    [
+      "Single planning package",
+      "$400 + printing costs + GST"
+    ],
+    [
+      "Couples will",
+      "$350 + printing costs + GST"
+    ],
+    [
+      "Couples planning package",
+      "$500 + printing costs + GST"
+    ]
+  ]
+}

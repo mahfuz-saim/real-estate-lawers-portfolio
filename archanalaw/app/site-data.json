@@ -1,0 +1,63 @@
+{
+  "folder": "archanalaw",
+  "name": "ARCHANA LAW",
+  "sub": "Real estate · Estates · Notary",
+  "title": "Your next chapter,\nhandled with care.",
+  "eyebrow": "Edmonton legal services",
+  "intro": "Professional, prompt guidance for your property transaction and the documents that protect your future. Start with a complimentary consultation.",
+  "theme": "archana",
+  "phone": "780-705-2009",
+  "email": "archana@archanalaw.com",
+  "address": "#302, 3rd Floor, 5083 Windermere Blvd SW, Edmonton, AB T6W 0J5",
+  "hours": "Monday–Friday · 9:30 am–4:30 pm",
+  "tagline": "Thoughtful service. Clear direction.",
+  "services": [
+    [
+      "Residential real estate",
+      "Legal guidance for home purchases, sales and mortgage transactions. We help you understand the paperwork, meet important dates and move confidently toward possession.",
+      "01"
+    ],
+    [
+      "Commercial real estate",
+      "Support for commercial property transactions, including purchases, sales and the legal steps that come with business property.",
+      "02"
+    ],
+    [
+      "Wills & estate planning",
+      "Prepare a will and plan for the future with documents that reflect your wishes and give your loved ones clarity.",
+      "03"
+    ],
+    [
+      "Notary services",
+      "Convenient notary public services for documents requiring witnessing, certification or commissioning.",
+      "04"
+    ]
+  ],
+  "team": [
+    [
+      "Archana Minev",
+      "Founder · Barrister & Solicitor",
+      "B.A., J.D. Archana earned her J.D. from the University of Sydney in 2011 and founded the firm in 2014 after articling and being called to the Alberta Bar."
+    ]
+  ],
+  "quote": "“Prompt, professional service starts with listening. We are here to make the legal process feel more straightforward.”",
+  "facts": [
+    [
+      "2014",
+      "Firm founded"
+    ],
+    [
+      "Free",
+      "Initial consultation"
+    ],
+    [
+      "4",
+      "Ways we can help"
+    ]
+  ],
+  "steps": [
+    "Share a few details about your transaction",
+    "Receive a clear checklist and next steps",
+    "Connect with our office as your matter progresses"
+  ]
+}
