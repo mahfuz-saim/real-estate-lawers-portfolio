@@ -1,0 +1,1 @@
+const paths=['/','/residential-purchase','/residential-sale','/refinance','/incorporations','/wills-estates','/team','/contact'];export default function sitemap(){return paths.map(path=>({url:`https://www.albertarealestatelawyers.com${path}`,lastModified:new Date(),changeFrequency:path==='/'?'monthly':'yearly',priority:path==='/'?1:.7}))}
