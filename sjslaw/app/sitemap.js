@@ -1,0 +1,1 @@
+const routes=['/','/about','/real-estate','/family-law','/wills-poa','/notary-services','/calculator','/book-appointment','/contact'];export default function sitemap(){return routes.map(path=>({url:`https://sjslaw.ca${path}`,lastModified:new Date(),changeFrequency:path==='/'?'monthly':'yearly',priority:path==='/'?1:.75}))}
