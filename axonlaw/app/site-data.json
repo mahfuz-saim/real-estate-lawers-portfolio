@@ -1,0 +1,72 @@
+{
+  "firm": "Axon Law",
+  "kicker": "A team you can trust",
+  "headline": "Legal help for\nwhat comes next.",
+  "intro": "An Edmonton firm serving clients in criminal defence, immigration, corporate, family and other areas of law. Start with a direct conversation with the team.",
+  "phone": "780-752-2966",
+  "email": "office@axonlaw.ca",
+  "address": "Suite 203, 10209–97 Street, Edmonton, Alberta",
+  "palette": "axon",
+  "mark": "AX",
+  "sub": "EDMONTON · ALBERTA",
+  "proof": "A broad team with experience across personal and business matters.",
+  "services": [
+    [
+      "Criminal defence",
+      "Representation when facing criminal charges, with support through key court stages.",
+      "Bail applications · Bail reviews · Trials · Sentencing"
+    ],
+    [
+      "Immigration",
+      "Advice and representation across immigration and refugee processes.",
+      "Permanent resident applications · Temporary resident applications · Refugee claims and appeals · Judicial review · U.S. waivers · Citizenship"
+    ],
+    [
+      "Family law",
+      "Help with family legal matters and applications.",
+      "Divorce · Child support · Parenting and access · Guardianship · Matrimonial property · Spousal support"
+    ],
+    [
+      "Corporate law",
+      "Guidance for business decisions, company structure and commercial agreements.",
+      "Start-up advice · Corporate structuring · Mergers and acquisitions · Contracts · General corporate advice"
+    ],
+    [
+      "Civil litigation",
+      "Legal representation in civil disputes."
+    ],
+    [
+      "Personal injury",
+      "Legal help following a personal injury."
+    ],
+    [
+      "Residential real estate",
+      "Flat-rate conveyancing services for purchases, sales and mortgage refinancing. The published service includes title and tax searches, transaction documents, signing, registration and closing disbursements. Complex or rushed transactions may involve additional fees."
+    ],
+    [
+      "Wills & personal planning",
+      "Wills, powers of attorney and personal health directives."
+    ],
+    [
+      "Notarization & authentication",
+      "Notary services and document authentication."
+    ]
+  ],
+  "facts": [
+    [
+      "9",
+      "Listed service areas"
+    ],
+    [
+      "Edmonton",
+      "Local law office"
+    ],
+    [
+      "Flat rate",
+      "Published real estate services"
+    ]
+  ],
+  "team": "Meet the Axon team",
+  "teamText": "The firm lists lawyers Allen Xiao, Angus Cheung, Anthony Morrish and Jason Leung. Contact the office to discuss which lawyer is best suited to your matter.",
+  "contactText": "For time-sensitive criminal-law questions, the firm invites prospective clients to call. You can also email the office."
+}

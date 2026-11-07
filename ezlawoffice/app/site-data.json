@@ -1,0 +1,52 @@
+{
+  "firm": "EZ Law Office",
+  "kicker": "Your legal matters made easy",
+  "headline": "Clear help.\nA simpler next step.",
+  "intro": "Legal services for Edmonton individuals, families and businesses—covering real estate, wills and estates, corporate, immigration and notary matters.",
+  "phone": "780-909-3810",
+  "email": "info@ezlawoffice.ca",
+  "address": "#522 Bell Tower, 10104–103 Avenue, Edmonton, Alberta T5J 0H8",
+  "palette": "ez",
+  "mark": "EZ",
+  "sub": "EDMONTON · ALBERTA",
+  "proof": "Straightforward service across five legal practice areas.",
+  "services": [
+    [
+      "Real estate",
+      "Legal services for property-related matters."
+    ],
+    [
+      "Wills & estates",
+      "Planning and estate-related legal services."
+    ],
+    [
+      "Corporate",
+      "Legal services for corporate matters."
+    ],
+    [
+      "Immigration",
+      "Immigration law services."
+    ],
+    [
+      "Notary services",
+      "Notary services for documents and signatures."
+    ]
+  ],
+  "facts": [
+    [
+      "5",
+      "Practice areas"
+    ],
+    [
+      "Downtown",
+      "Bell Tower office"
+    ],
+    [
+      "Direct",
+      "Phone and email contact"
+    ]
+  ],
+  "team": "A more approachable legal experience",
+  "teamText": "EZ Law Office presents its services around an easy-to-understand client experience. Contact the office to confirm whether it can assist with your specific legal matter.",
+  "contactText": "Call or email the office to discuss which service fits your needs and how to get started."
+}
