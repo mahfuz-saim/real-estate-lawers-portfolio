@@ -1,0 +1,78 @@
+{
+  "folder": "oliverhouselaw",
+  "name": "OLIVER HOUSE",
+  "sub": "LAW OFFICE · EDMONTON",
+  "title": "Real estate law,\nmade reassuring.",
+  "eyebrow": "A steady hand for your move",
+  "intro": "From the offer to the keys, our small Edmonton team makes residential real estate feel more manageable—with clear answers and experienced hands.",
+  "theme": "oliver",
+  "phone": "780-484-0665",
+  "email": "nadine@oliverhouselaw.com",
+  "address": "10145–115 Street NW, Edmonton, AB T5K 1T3",
+  "hours": "Monday–Friday · 8:30 am–4:00 pm",
+  "tagline": "Experienced counsel. A personal touch.",
+  "services": [
+    [
+      "Buy a home",
+      "We guide you through the legal work behind your purchase, coordinate with your lender and help prepare for a smooth possession day.",
+      "01"
+    ],
+    [
+      "Sell a home",
+      "Get support with the documents, mortgage payout and transfer steps required to complete your sale.",
+      "02"
+    ],
+    [
+      "Refinance & title changes",
+      "Legal assistance for refinancing, changing title ownership and other property updates.",
+      "03"
+    ],
+    [
+      "More ways we help",
+      "Mobile home purchases and sales, Canadian military moves, and estate-planning packages with a will, enduring power of attorney and personal directive.",
+      "04"
+    ]
+  ],
+  "team": [
+    [
+      "James D. Campbell",
+      "Barrister & Solicitor",
+      "Residential real estate and estate-planning counsel with more than 35 years of experience."
+    ],
+    [
+      "Nadine Bjorkquist",
+      "Paralegal",
+      "Your point of contact for quotes, appointments and the details that keep a file moving."
+    ],
+    [
+      "Devon Paine",
+      "Legal Assistant",
+      "Here to help make each step feel organized and straightforward."
+    ],
+    [
+      "Yukon",
+      "Part-time assistant",
+      "A valued member of the Oliver House team."
+    ]
+  ],
+  "quote": "More than 35 years of experience, a friendly team, and free on-site parking.",
+  "facts": [
+    [
+      "35+",
+      "Years of experience"
+    ],
+    [
+      "Free",
+      "On-site parking"
+    ],
+    [
+      "8:30",
+      "Weekday opening"
+    ]
+  ],
+  "steps": [
+    "Email us for a detailed quote",
+    "We coordinate with your lender and real estate team",
+    "Sign, close and get ready for the keys"
+  ]
+}
